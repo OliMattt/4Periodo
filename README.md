@@ -5,9 +5,9 @@ Aqui eu vou separar uma pastinha para cada materia, fazer resumos, organizar os 
 ## Disciplinas
 
 * <a href="https://github.com/OliMattt/4Periodo/tree/main/Compiladores"> Compiladores e Interpretadores </a>
-* Filosofia: Antropologia e Etica
-* Linguagens de Programação
-* Robos, Sensores e Aplicações
-* Segurança e Criptografia
+* <a href="https://github.com/OliMattt/4Periodo/tree/main/Filosofia"> Filosofia: Antropologia e Etica <\a>
+* <a href="https://github.com/OliMattt/4Periodo/tree/main/LP> Linguagens de Programação <\a>
+* <a href="https://github.com/OliMattt/4Periodo/tree/main/Robos"> Robos, Sensores e Aplicações <\a>
+* <a href"https://github.com/OliMattt/4Periodo/tree/main/Seguran%C3%A7a> Segurança e Criptografia </a>
 * Seminarios IV
-* Trabalho Integrado I
+* <a href="https://github.com/OliMattt/4Periodo/tree/main/TAI"> Trabalho Integrado I </a>
