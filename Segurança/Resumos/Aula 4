@@ -1,0 +1,40 @@
+# Fundamentos de Criptografia
+
+  A criptografia é caracterizado como a ciencia (ou arte) de escrever codigos cifrados, usando um conjunto de metodos que permite tornar incompreensivel uma mensagem (dado ou informação)
+de forma a permitir que apenas as pessoas autorizadas consigam decrifra-la e compreende-la
+
+## Motivações para o Uso de Criptografia
+
+  * Sigilo
+    Proteger dados e informações para que somente as pessoas ou os processos autorizados consigam utiliza-los
+
+  * Integridade
+    Evitar a alteração fraudulenta e/ou a destruição de dados e informações
+
+  * Autenticidade
+    Determinar a origem (fonte geradora) de dados e informaçoes
+
+## Modelos de Criptografia
+
+  * Cifragem
+    Para cifra uma mensagem, deve se utilizar de um metodo de cifragem, que recebe como entrada uma mensagem ( que pode ser um dado o informação) e uma chave de cifragem, que irá produzir como
+principal resultado uma mensagem cifrada, ue pode ser armazenada em um meio qualquer ou transmitida por uma rede de comunicaão
+
+  * Decifragem
+    Para decifrar uma mensagem, utiliza-se de um metodo que recebe como entrada a mensagem cifrada e uma chave de cifragem, e produz a mensagem original
+
+Passos:
+
+  Mensagem Original -> Chave de Criptografia -> Método de Cifragem -> Mensagem Cifrada + Chave de Criptografia -> Metodo de Decifragem -> Mensagem Original
+
+## Impactos da Criptografia
+
+    * Segurança
+    A criptografia oferece camada de segurança para as comunicações interpessoais e entre diversas organizações
+
+    * Anonimato
+    Mensagens criptografadas podem aumentar a sensação de anonimato, o que produz impactos positivos e negativos
+
+    * Criminalidade
+    Algoritmos de criptografia podem ser utilizados a serviços de organizações criminosas, dificultando operações de rastreamento e identificação
+
