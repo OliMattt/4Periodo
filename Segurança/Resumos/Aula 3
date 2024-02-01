@@ -1,0 +1,85 @@
+# Segurança Cibernetica, Criptografia de Dados e Perícia Computacional
+
+* Dados
+    Os dados são elementos brutos que são a materia prima para produção da informação
+
+* Informação
+    Pode ser vista como resultado da organização, estruturação e classificação dos dados de sua composição
+
+*  Conhecimento
+    O conhecimento é formado a partir da informação processada e transformada em experiencia para o indiviuo ou grupo em sociedade
+
+## Ataque Cibernetico
+
+  O ataque Cibernetico é um evento baseado em tecnologia de informação e comunicação que ocorre no espaço civernetico, que usualmente pode ser de natureza criminosa
+tem como principal objetivo causar transtornos a pessoas, grupos de pessoas, empresas e organizações ou ao governo
+  Os ataques podem ocorrer em escala local, regional ou até mesmo global e seus efeitos podem causar impactos em diversas escalas, afetando serviços essenciais e podendo
+ate mesmo ameaçar a vida em sociedade
+
+## Crimes Ciberneticos
+
+  Os Crimes e Golpes Ciberneticos são todos aqueles que ocorremo na infraestrutura do mundo digital, que incluem equipamentos, redes de comunicação, Software/Aplicativos
+sistemas, contas de usuario, plataformas digitais e um crime ou evento pode caracterizar um delito ou infração de qualquer legislação vigente
+  Os Crimes Ciberneticos podem ser caracterizados como Proprios e Improprios
+      * Proprios: Possuem um sistema computacional especifico como alvo
+      * Improprio: Aqueles que ocorrem por meio de sistemas computacionais
+
+A principal função da Segurança Cibernetica é oferecer respostas a incidentes, que podem ocorrer da seguinte forma:
+
+Ataque -> Exploração -> Comando e Controle -> Ação -> Rastros, Vestigios e Evidencias -> RESPOSTA
+
+## Vulnerabilidade
+
+  Vitima Curiosa
+  Vitima Com medo
+  Vitima confiante
+  Vitima Ignorante
+  Vitima Ganaciosa
+  Vitima Solitaria
+
+## Tipificação
+
+  * Phishing
+    Captura de dados a partir de iscas computacionais que podem levar a conteúdos falsos
+
+  * Ramsonware
+    Sequestro de dados e arquivos que somente sao devolvidos mediante pagamentos
+
+  * Organizações Criminosas
+    Utilizaão de ecosistemas computacionais para trafico de drogas, corrupção, fraudes (crimes ilicitos)
+
+  * Pharming
+    Semelhante ao Phishing, mas com maior sofistificação, pois se utiliza de conteudos muito proximos dos verdadeis para cometer o crime
+
+  * Fake News
+    Uso de sistemas computacionais para disseminação de calunias, difamação, ativismos e afins
+
+  * Hacking
+    Capturas de dados de acesso a contas de usuário em plataformas de Redes Sociais
+
+  * Deep Web e Dark Web
+    uso do submundo da internet para cometimento de variados tipos de crimes
+
+  * Clonagem
+    Uso de Sistemas computacionais para clonar equipamentos e dados de um individuo ou grupo
+
+  * Vingaça e Porn Revenge
+    Exposição da intimidade sexual de um individuo
+
+  * Sexting
+    Trocas de Mensagens textuais com o objetivos de natureza sexual
+
+  * Porn
+    Uso de sistemas computacionais para produzir, armazenar e compartilhar de conteudos ilicitos
+
+    * Invasao
+    Acesso Ilegal a equipamentos e dispositivos computacionais
+
+    * Logging
+    Uso de Logs de sistemas como prova de processos judiciais
+
+    * Concorrencia e Fraude
+    Uso de sistemas para violar direitos e regras em setores produtivos
+
+    * Espionagem
+    Uso de sistemas computacionais para espionar equipamentos e dados
