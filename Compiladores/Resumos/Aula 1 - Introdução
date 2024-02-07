@@ -1,0 +1,43 @@
+# Introdução - As fases e estrutura de um compilador
+
+  A principal função do compilador é traduzir um programa escrito em uma linguagem (Um Programa Fonte) em um programa equivalente em linguagem de baixo nível (com linguagem alvo ou objeto)
+
+
+  --  Programa Fonte -> Compilador(Trabalhar possiveis erros) -> Programa Objeto  --
+
+    * Programa Fonte: Geralmente uma linguagem de alto nível (C, C++, Java, PHP....)
+    * Programa Alvo: Geralmente código de máquina
+
+    O compilador deve:
+      * Reconhecer e reportar os erros
+      * Gerar código de máquina alvo orreto (Código Equivalente)
+      * Gerir a alocação de memória dos dados e código
+      * Gerar o código de máquina num formato reconhecido pelos outros componentes do sistema (Linkers e Loaders)
+
+  -- Editor¹ -> Pré-Processador² -> Compilador³ -> Linker+ -> Loader++
+
+¹: Editor para o código base
+²: Programa Fonte modificado, alterado para o entendimento e interpratação
+³: Código Objeto, código onde existe a sintaxe e analise lexica concluida
++: Linker das bibliotecas externas, como por exemplo pre compiler de <stdio.h>
+++: Loader vai gerar uma imagem na memoria para entao exibir as informações do programa
+
+Divisão do Compilador em Front End e Back End
+
+    * Front End eh a IDE, o código do programador, e afins 
+    * Back End seria o compilador/Interpretador que ira traduzir o código para linguagem de máquina
+
+## Características:
+    * Existencia de uma representação intermediaria (máquina abstrata)
+    * o Front End mapeia o programa Fonte em uma representação intermediaria
+    * A Back End produz o código de máquina a partir da representação intermediária
+    * Simplifica a produção de compiladores para várias máquinas concretas
+    * Simplifica a produção de compiladores para várias linguagens fonte
+    * Duas Passagens => Código mais eficiente que em uma unica passagem
+
+## Front End
+
+    -- Programa Fonte -> Analise Lexica (tokens) -> Analise Sintatica (Parser) -> Analise Semantica (Parser anotada) -> Geração de Codigo intermediario (Representação Inter.) --
+
+    - No Front End, é feito uma análise Lexica, ele gera tokens que são simbologias para facilicar as analises posteriores
+
