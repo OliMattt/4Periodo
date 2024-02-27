@@ -1,0 +1,37 @@
+# Introdução a Robotica: elementos e estruturas dos Robos
+
+## Efetuadores
+
+  São conhecidos como efetuadores ou garra e podem ser de 2 tipos principais:
+    * Ferramentas: Pistola de Pintura, Ferramentas de Soldas, maçaricos...
+    * Garras: com a função de segurar objetos.
+
+### Garras com Dedos Rígidos
+  São o tipo mais comum, podem ter varias formas e tamanhos mas com movimentos limitados
+podem se mover em paralelo ou em rotação, para abertura dos dedos
+Possui limitação na abertura dos dedos.
+
+### Garras com Dedos Articulados
+  Projetados para agarrar objetos de diferentes tamanhos e formas, possuem vínculos articulados
+podem ter 2 ou mais dedos e as articulações sao omvimentadas por pares de cabos com o 
+proposito de estender e flexionar.
+
+### Garras para Objetos Cilíndricos
+  Consiste em dois dedos chanfrados (com aberturas circulares) permitindo segurar objetos
+cilindricos de diâmetros diferentes
+
+### Garras a Vácuo
+  São projetos para se prenderem em superfícies lisas, possuem ventosas de sucção por ar
+comprimido. Costumam ser usadas para superfícies metálicas e são comumente utilizadas 
+na industria automobilistica.
+
+### Garras Eletromagnéticas
+  São utilizadas para segurar objetos metalicos que podem ser magnetizados. Sao 
+eficientes para segurar objetos de varios tamanhos que não precisam de grande precisão
+no posicionamento da garra.
+
+## Atuadores
+
+  Os atuadores podem ser de três tipos:
+    * Elétricos: Mais utlizados (limpos e silenciosos)
+    * Hidráulicos: 
