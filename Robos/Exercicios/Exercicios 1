@@ -1,1 +1,15 @@
+1) Quais as principais diferenças entre robôs e sistemas automatizados, como uma porta
+automática de shopping?
+R = Os Sistemas Automatizados costumam ser pequenos sistemas simples que fazem pequenas
+rotinas de tarefas, e possuem um Grau de Liberdade pequeno, por exemplo, a porta do Shopping
+ela é designada para Abrir e Fechar em um unico Eixo e Movimento, Já um Robô ele deve ser
+capaz de perceber os obstáculos em seu ambiente e se adaptar para superar, possui maior grau
+de Liberdade, a exemplo, um pequeno Robô que deve pegar uma caixinha em um ponto A e levar a um
+ponto B, ele deve se locomover no trajeto, desviar de obstáculos e buscar a melhor rota para
+entregar o produto em questão.
 
+2) Quais as diferenças entre robôs e sistemas teleoperados? Dê exemplos de ambos.
+R = Os Sistemas Teleoperados são pequenos sistemas que serão controlados por ação humana, 
+portanto, necessitam de ação humana para superar obstaculos e concluir objetivos, enquanto os Robôs 
+devem possuir a capacidade de alcançar seus objetivos superando os obstáculos encontrados sem necessidade
+de intervneção humana
