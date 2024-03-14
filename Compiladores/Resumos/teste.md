@@ -2,6 +2,6 @@
 
 begin
     - adasdasda
-    asdasdasd
-    asdasdad
+    - asdasdasd
+    - asdasdad
 end
